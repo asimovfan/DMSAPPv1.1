@@ -7,3 +7,4 @@ Data to be passed to biometric page(done)
 In get coordinates screen showing error in case coordinates not sent else success if sent(done)
 Refresh button added
 logo added
+# DMSAPPv1.1
